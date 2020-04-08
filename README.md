@@ -1,5 +1,5 @@
-# EC-18 WEBSITE
-E' un sistema informativo finalizzato a una gestione di una moderna piattaforma e-commerce multicanale.
+# EC-18 Website
+Sistema informativo finalizzato a una gestione di una moderna piattaforma e-commerce multicanale.
 ### Il sistema presenta due parti:
 - Back-End
 - Front-End
